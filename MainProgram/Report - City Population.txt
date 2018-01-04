@@ -1,0 +1,4 @@
+Total Categories : 20000
+Max Value        : 37253956
+Top Category     : California
+Deviation        : 35.01%
